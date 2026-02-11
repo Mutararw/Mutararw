@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m passionate about building scalable and effic
 
  I’m currently working on several exciting projects that focus on practical applications, intuitive user experiences, and innovative solutions to everyday challenges.
 
- I’m continually learning new tools and technologies — from modern JavaScript frameworks to backend systems,Ai/Ml and cloud workflows.
+ I’m continually learning new tools and technologies  from modern JavaScript frameworks to backend systems,Ai/Ml and cloud workflows.
 
  I enjoy collaborating with other developers, exploring emerging tech, and turning ideas into polished products.
 
